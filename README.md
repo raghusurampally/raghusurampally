@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently working as SDET Automation engineer<br>I am currently looking to integrate different automation tools to one platform<br>I am open to contribute to open source<br>
+Hi, I'm Raghavendra
+
+I am a Senior SDET and AI-in-Testing Lead experience building scalable test automation, strengthening quality engineering practices, and enabling faster, safer releases across enterprise platforms. My background spans UI, API, integration, regression, UAT, and shift-left testing, with hands-on expertise in Playwright, Selenium, Karate, Robot Framework, Python, Java, SQL, Jenkins, and Agile delivery.
 
 
 ## 🌐 Socials:
